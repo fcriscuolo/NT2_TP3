@@ -1,0 +1,14 @@
+{
+  "name": "nt2_tp3",
+  "version": "1.0.0",
+  "description": "NT2 - TP3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico M. Criscuolo",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
